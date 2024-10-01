@@ -61,13 +61,16 @@ public static void main(String[] args) {
 
     System.out.println("Enter C for Celsius or F for Fahrenheit: ");
     String TempType = m_scanner.nextLine();
+    m_scanner.nextLine();
+    
     System.out.println("Enter the temperature: ");
     int Temp = m_scanner.nextInt();
+    
    if( TempType.equalsIgnoreCase("C")) {
-        System.out.println("The Temperature in Fahrenheit is: " + (double)(Temp * 9 / 5 + 32));
+        System.out.println("The Temperature in Fahrenheit is: " + (double) Temp * 9 / 5 + 32);
    }
    else {
-        System.out.println("The Temperature in Celsius is: " + (double)((Temp - 32) * 5 / 9));
+        System.out.println("The Temperature in Celsius is: " + (double)(Temp - 32) * (double) 5 / 9);
    }
     
  }
@@ -103,8 +106,5 @@ public static void main(String[] args) {
    System.out.println("Dimes: " + numOfDimes);
    System.out.println("Nickels: " + numOfNickels);
    System.out.println("Pennies: " + numOfPennies);
-
-
-   
  }
 }
