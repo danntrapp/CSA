@@ -55,8 +55,6 @@ public static void main(String[] args) {
    double cost = (numOfHotDogs * HotDogCost) * tax;
    System.out.println("Your total today will be " + cost +
                       "dollars.");
-
-   
  }
 
  public static void HotStuff(String[] args) {
@@ -94,11 +92,11 @@ public static void main(String[] args) {
    System.out.println("How much change do you have?");
    int change = m_scanner.nextInt();
    int numOfQuarters = change/quarter;
-   change = change - (numOfQuarters * quarter);
+   change -= (numOfQuarters * quarter);
    int numOfDimes = change/dime;
-   change = change - (numOfDimes * dime);
+   change -= (numOfDimes * dime);
    int numOfNickels = change/nickel;
-   change = change - (numOfNickels * nickel);
+   change -= (numOfNickels * nickel);
    int numOfPennies = change/penny;
 
    System.out.println("Quarters: " + numOfQuarters);
