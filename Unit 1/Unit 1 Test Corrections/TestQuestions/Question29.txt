@@ -1,0 +1,9 @@
+29. What is printed as a result of executing the following statement?
+
+System.out.println(404 / 10 * 10 + 1);
+
+(A) 4
+(B) 5
+(C) 41
+(D) 401
+(E) 405

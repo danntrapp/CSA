@@ -1,0 +1,10 @@
+20. Which of the following expressions evaluate to 7 ?
+
+I. 9 + 10 % 12
+II. (9 + 10) % 12
+III. 9 – 2 % 12
+(A) I only
+(B) II only
+(C) I and III
+(D) II and III
+(E) I, II, and III

@@ -1,0 +1,11 @@
+6. Which of the following expressions evaluate to 3.5 ?
+
+I. (double) 2 / 4 + 3
+II. (double) (2 / 4) + 3
+III. (double) (2 / 4 + 3)
+
+(A) I only
+(B) III only
+(C) I and II only
+(D) II and III only
+(E) I, II, and III

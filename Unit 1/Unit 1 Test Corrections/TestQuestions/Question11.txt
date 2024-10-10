@@ -1,0 +1,14 @@
+11. Consider the following code segment.
+int x = 5;
+int y = 6;
+/* missing code */
+z = (x + y) / 2;
+Which of the following can be used to replace /* missing code */ so that the code segment will compile?
+I. int z = 0;
+II. int z;
+III. boolean z = false;
+(A) I only
+(B) II only
+(C) I and II only
+(D) II and III only
+(E) I, II, and III

@@ -1,0 +1,10 @@
+7. Consider the following code segment.
+double x = (int) (5.5 - 2.5);
+double y = (int) 5.5 - 2.5;
+System.out.println(x - y);
+What is printed as a result of executing the code segment?
+(A) -1.0
+(B) -0.5
+(C) 0.0
+(D) 0.5
+(E) 1.0

@@ -1,0 +1,12 @@
+Directions: Select the choice that best fits each statement. The following question(s) refer to the following incomplete 
+class declaration. 
+
+
+32. Which of the following can be used to replace / *missing code* / so that advance will correctly update the time? 
+(A) minutes = minutes % 60; 
+(B) minutes = minutes + hours % 60; 
+(C) hours = hours + minutes / 60; 
+    minutes = minutes % 60; 
+(D) hours = hours + minutes % 60; 
+    minutes = minutes / 60; 
+(E) hours = hours + minutes / 60; 

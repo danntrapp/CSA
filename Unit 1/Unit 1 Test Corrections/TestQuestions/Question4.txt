@@ -1,0 +1,18 @@
+4. Consider the following code segment, which is intended to find the average of two positive integers, x and y.
+
+int x;
+int y;
+int sum = x + y;
+double average = (double) (sum / 2);
+
+Which of the following best describes the error, if any, in the code segment?
+
+(A) There is no error, and the code works as intended.
+(B) In the expression (double) (sum / 2), the cast to double is applied too late, so the average will
+be less than the expected result for even values of sum.
+(C) In the expression (double) (sum / 2), the cast to double is applied too late, so the average will
+be greater than the expected result for even values of sum.
+(D) In the expression (double) (sum / 2), the cast to double is applied too late, so the average will
+be less than the expected result for odd values of sum.
+(E) In the expression (double) (sum / 2), the cast to double is applied too late, so the average will
+be greater than the expected result for odd values of sum.

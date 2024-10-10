@@ -1,0 +1,11 @@
+5. Consider the following code segment.
+double num = 9 / 4;
+System.out.print(num);
+System.out.print(" ");
+System.out.print((int) num);
+What is printed as a result of executing the code segment?
+(A) 2 2
+(B) 2.0 2
+(C) 2.0 2.0
+(D) 2.25 2
+(E) 2.25 2.0

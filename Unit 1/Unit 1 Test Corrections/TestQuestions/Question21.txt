@@ -1,0 +1,10 @@
+21. Consider the following code segment.
+int x = 5;
+x += 6 * 2;
+x -= 3 / 2;
+What value is stored in x after the code segment executes?
+(A) -1.5
+(B) 1
+(C) 9
+(D) 15.5
+(E) 16
