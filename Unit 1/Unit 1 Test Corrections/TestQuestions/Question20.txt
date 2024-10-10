@@ -2,7 +2,7 @@
 
 I. 9 + 10 % 12
 II. (9 + 10) % 12
-III. 9 – 2 % 12
+III. 9 - 2 % 12
 (A) I only
 (B) II only
 (C) I and III

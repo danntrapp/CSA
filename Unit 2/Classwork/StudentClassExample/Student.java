@@ -1,5 +1,4 @@
-package MyClass;
-
+package StudentClassExample;
 public class Student {
     /*Properties */
     private String name;

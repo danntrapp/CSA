@@ -1,6 +1,7 @@
 Directions: Select the choice that best fits each statement. The following question(s) refer to the following incomplete 
 class declaration. 
 
+(refer to the pdf here)
 
 32. Which of the following can be used to replace / *missing code* / so that advance will correctly update the time? 
 (A) minutes = minutes % 60; 
