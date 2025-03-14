@@ -33,7 +33,7 @@ public static void main(String[] args)
         case 29 -> Question29(args);
         case 32 -> Question32(args);
 
-        default -> System.out.println("Invalid input. Please enter a number between 1 and 5.");
+        default -> System.out.println("Invalid input.");
     }
 }
 

@@ -32,6 +32,26 @@ public class Student {
         return this.name;
     }
 
+    public boolean getStupid()
+    {
+        return this.isStupid;
+    }
+
+    public void setStupid()
+    {
+        this.isStupid = true;
+    }
+
+    public void setAge(int age)
+    {
+        this.age = age;
+    }
+
+    public int getAge()
+    {
+        return this.age;
+    }
+
     public void print()
     {
         System.out.println("Name-> " + this.name);

@@ -106,5 +106,6 @@ public static void main(String[] args) {
    System.out.println("Dimes: " + numOfDimes);
    System.out.println("Nickels: " + numOfNickels);
    System.out.println("Pennies: " + numOfPennies);
+   m_scanner.close();
  }
 }
