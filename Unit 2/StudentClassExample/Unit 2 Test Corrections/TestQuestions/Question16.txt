@@ -1,0 +1,15 @@
+16. A student has created a Car class. The class contains variables to represent the following.
+
+A String variable called color to represent the color of the car 
+An int variable called year to represent the year the car was made
+A String variable called make to represent the manufacturer of the car 
+A String variable called model to represent the model of the car
+The object vehicle will be declared as type Car.
+
+Which of the following descriptions is accurate?
+
+(A) An instance of the vehicle class is Car.
+(B) An instance of the Car object is vehicle.
+(C) An attribute of the year object is int.
+(D) An attribute of the vehiclej object is color.
+(E) An attribute of the Car instance is vehicle.
